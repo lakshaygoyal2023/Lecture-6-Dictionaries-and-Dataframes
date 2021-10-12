@@ -1,1 +1,4 @@
-# Lecture-6-
+# Lecture 6 Dictionaries and Dataframes
+Name: Lakshay Goyal
+Age: 19
+Division: 19
